@@ -13,20 +13,16 @@ Arduino arduino;
 
 void setup() {
   size(500, 500);
- arduino = new Arduino(this, Arduino.list()[0], 57600);
-  
-  // Set the Arduino digital pins as inputs.
-  for (int i = 0; i <= 13; i++)
-    arduino.pinMode(i, Arduino.INPUT);
+  arduino = new Arduino(this, Arduino.list()[0], 57600);
 }
 
 void draw() {
-    background(192);
-    int y = arduino.analogRead(5);
-    ellipse(250,2*y,50,50);
+  background(192);
+  int y = arduino.analogRead(5);
+  ellipse(250, 2*y, 50, 50);
 }
 ```
-
+Run the program. Pass your hand over the light sensor labeled with a picture of an eye on the Circuit Playground. You should see an ellipse move up and down as the light sensor changes values. Higher values mean more light.
 
 ### Step 3: 
 TBD
