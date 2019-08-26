@@ -22,7 +22,8 @@ void draw() {
   ellipse(250, 2*y, 50, 50);
 }
 ```
-Run the program. Pass your hand over the light sensor labeled with a picture of an eye on the Circuit Playground. You should see an ellipse move up and down as the light sensor changes values. Higher values mean more light.
+Run the program. Pass your hand over the light sensor labeled with a picture of an eye on the Circuit Playground. You should see an ellipse move up and down as the light sensor changes values. Higher values mean more light. The light sensor is circled in the picture below.
+![](CircuitPlayground.PNG)
 
 ### Step 3: 
 TBD
