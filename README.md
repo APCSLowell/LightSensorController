@@ -25,8 +25,6 @@ void draw() {
 Run the program. Pass your hand over the light sensor labeled with a picture of an eye on the Circuit Playground. You should see an ellipse move up and down as the light sensor changes values. Higher values mean more light. The light sensor is circled in the picture below.
 ![](CircuitPlayground.PNG)
 
-### Step 3: 
-TBD
+### Step 3: Write your own program
+Using the sample program as a guide, write your own program that uses the light sensor. Your program doesn't have to work or look like any other. Have fun and be cretive! Submit the .pde file to Google Classroom when you are happy with your program.
 
-### Extensions:
-TBD
