@@ -11,14 +11,15 @@ import processing.serial.*;
 import cc.arduino.*;
 Arduino arduino;
 
-void setup() {
+public void setup() {
   size(500, 500);
   arduino = new Arduino(this, Arduino.list()[0], 57600);
 }
 
-void draw() {
+public void draw() {
   background(192);
   int y = arduino.analogRead(5);
+  System.out.println(y);
   ellipse(250, 2*y, 50, 50);
 }
 ```
