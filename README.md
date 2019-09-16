@@ -13,7 +13,7 @@ Arduino arduino;
 
 public void setup() {
   size(500, 500);
-  arduino = new Arduino(this, Arduino.list()[0], 57600); //change to Arduino.list()[1] if program doesn't work
+  arduino = new Arduino(this, Arduino.list()[0], 57600); //change the [0] to a [1] or [2] etc. if your program doesn't work
 }
 
 public void draw() {
