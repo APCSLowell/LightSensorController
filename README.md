@@ -2,7 +2,7 @@
 In this Arduino lab you will write a program that gets input from the light sensor in the Adafruit Circuit Playground and uses it as an controller for a Processing program
 
 ### Step 1: Plug in the Adafruit Circuit Playground and start Processing
-Contact the Circuit Playground to your computer with a USB cord. Open Processing. You will need to install a library (you only need to do this once). Choose *Sketch | Import Library | Add Library*.  Type *Arduino* in the text field labeled *Filter*. Choose *Arduino (Firmata)* and click *Install*.
+Connect the Circuit Playground to your computer with a USB cord. Open Processing. You will need to install a library (you only need to do this once). Choose *Sketch | Import Library | Add Library*.  Type *Arduino* in the text field labeled *Filter*. Choose *Arduino (Firmata)* and click *Install*.
 
 ### Step 2: Run this sample program
 Copy and paste the following program
