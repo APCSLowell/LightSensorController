@@ -29,8 +29,8 @@ Run the program. Pass your hand over the light sensor labeled with a picture of 
 ### Step 3: Write your own program
 Using the sample program as a guide, write your own program that uses the light sensor. Your program doesn't have to work or look like any other. Have fun and be creative! Submit the .pde file to Google Classroom when you are happy with your program. You should be able to find it in the *My Documents | Processing* folder. Don't forget to click the *Mark as done* button.
 
-### Have something cool that can be shown at back to school night?
-Back to school night is Thursday September 19. Let me know if I can use your program at back to school night.   
+<!-- ### Have something cool that can be shown at back to school night?
+Back to school night is Thursday September 19. Let me know if I can use your program at back to school night.   -->
 
 ### Extensions
 Feel free to experiment with other aspects of the Arduino. Here's a sample program the will print the values of 16 inputs
