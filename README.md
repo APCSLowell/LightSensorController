@@ -32,22 +32,4 @@ Using the sample program as a guide, write your own program that uses the light 
 <!-- ### Have something cool that can be shown at back to school night?
 Back to school night is Thursday September 19. Let me know if I can use your program at back to school night.   -->
 
-### Extensions
-Feel free to experiment with other aspects of the Arduino. Here's a sample program the will print the values of 16 inputs
-```java {.line-numbers}
-import processing.serial.*;
-import cc.arduino.*;
-Arduino arduino;
 
-public void setup() {
-  size(100, 100);
-  arduino = new Arduino(this, Arduino.list()[0], 57600);
-}
-
-public void draw() {
-  background(192);
-  for(int i = 0; i < 16; i++)
-    System.out.print(i+" "+arduino.analogRead(i) + "\t");
-  System.out.println();
-}
-```
