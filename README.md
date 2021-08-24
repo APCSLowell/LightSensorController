@@ -1,4 +1,4 @@
-# Use an Adafruit Circuit Playground as an input device in a Processing program
+# Use the light sensor in an Adafruit Circuit Playground as an input device in a Processing program
 In this Arduino lab you will write a program that gets input from the light sensor in the [Adafruit Circuit Playground](https://www.adafruit.com/product/3000) and uses it as an controller for a Processing program
 
 ### Step 1: Plug in the Adafruit Circuit Playground and start Processing
