@@ -27,9 +27,16 @@ Run the program. Pass your hand over the light sensor labeled with a picture of 
 ![](CircuitPlayground.PNG)
 
 ### Step 3: Write your own program
-Using the sample program as a guide, write your own program that uses the light sensor. Your program doesn't have to work or look like any other. Have fun and be creative! Submit the .pde file to Google Classroom when you are happy with your program. You should be able to find it in the *My Documents | Processing* folder. Don't forget to click the *Mark as done* button.
+Using the sample program as a guide, write your own program that uses the light sensor. Your program doesn't have to work or look like any other. Have fun and be creative! 
+
+### Step 4: Make a short (under 10 second) video
+When you are happy with your program, have a friend make short video less than 10 seconds in length of you interacting with your virtual pet. Convert the video to an animated gif using a free converter like (ezgif.com)[https://ezgif.com/] Submit the .gif file to Google Classroom. See Mr. Simon's example animated gif below.
 
 <!-- ### Have something cool that can be shown at back to school night?
 Back to school night is Thursday September 19. Let me know if I can use your program at back to school night.   -->
+
+Samples of Student Work
+-----------------------
+[Mr. Simon](VirtualPet.gif)  
 
 
