@@ -37,7 +37,7 @@ Back to school night is Thursday September 19. Let me know if I can use your pro
 
 Samples of Student Work
 -----------------------
-Mr. Simon's virtual pet penguin   
-![](VirtualPet.gif)  
+[Mr. Simon's virtual pet penguin animated gif](https://gifyu.com/image/GaWB)   
+
 
 
