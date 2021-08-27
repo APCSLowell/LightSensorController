@@ -36,6 +36,7 @@ When you are happy with your program, have a friend make short video less than 1
 Back to school night is Thursday September 19. Let me know if I can use your program at back to school night.   -->
 
 [Mr. Simon's virtual pet penguin animated gif](https://gifyu.com/image/GaWB)   
+
 Samples of Student Work
 -----------------------
 None yet!
