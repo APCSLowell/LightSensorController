@@ -30,12 +30,12 @@ Run the program. Pass your hand over the light sensor labeled with a picture of 
 Using the sample program as a guide, write your own program that uses the light sensor. Your program doesn't have to work or look like any other. Have fun and be creative! 
 
 ### Step 4: Make a short (under 10 second and 25MB) video
-When you are happy with your program, have a friend make short video less than 10 seconds in length of you interacting with your virtual pet. Convert the video to an animated gif using a free converter like [ezgif.com](https://ezgif.com/). Submit your gif to Google Classroom. See Mr. Simon's example animated gif below.   
+When you are happy with your program, have a friend make short video less than 10 seconds in length of you interacting with your virtual pet. Convert the video to an animated gif using a free converter like [ezgif.com](https://ezgif.com/). Use ezgif's *cut video* option to edit your video to under 10 seconds. Submit your gif to Google Classroom. See Mr. Simon's example animated gif below.   
 
 <!-- ### Have something cool that can be shown at back to school night?
 Back to school night is Thursday September 19. Let me know if I can use your program at back to school night.   -->
 
-![Mr. Simon's virtual pet penguin animated gif](VirtualPenguin.gif)   
+[Mr. Simon's virtual pet penguin animated gif](VirtualPenguin.gif)   
 
 Samples of Student Work
 -----------------------
