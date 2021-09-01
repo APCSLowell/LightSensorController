@@ -41,6 +41,10 @@ Back to school night is Thursday September 19. Let me know if I can use your pro
 
 Samples of Student Work
 -----------------------
+[Alison](https://github.com/apcsci/VirtualPet/blob/gh-pages/virtualpet_gif.gif)   
+[Nikhita](https://github.com/Nilaw5/VirtualPet/blob/gh-pages/VirtualPet%20Light%20Gif.gif)   
+[Eric](https://github.com/erchan3/VirtualPet/blob/gh-pages/ezgif.com-gif-maker.gif)   
+[Chun Ho](https://github.com/chchen4/VirtualPet/blob/gh-pages/Mad%20Virtual%20Pet.gif)   
 [Zoey](https://github.com/zoeyzhu/VirtualPet/blob/gh-pages/IMG_8305.GIF)   
 [Tyler](https://github.com/ty237/VirtualPet/blob/gh-pages/ezgif.com-gif-maker.gif)   
 [Tiffany](https://github.com/tiffanyt11/VirtualPet/blob/gh-pages/ezgif-7-49449e974dc8.gif)   
