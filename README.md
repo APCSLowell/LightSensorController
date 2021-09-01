@@ -41,10 +41,21 @@ Back to school night is Thursday September 19. Let me know if I can use your pro
 
 Samples of Student Work
 -----------------------
+[Keneth](https://github.com/KenethL/VirtualPet/blob/gh-pages/ezgif.com-gif-maker.gif)   
+[Kaitlyn](https://github.com/kaiyenpepper/VirtualPet/blob/gh-pages/ezgif.com-gif-maker.gif)   
+[Federico](https://github.com/feaprile/VirtualPet/blob/gh-pages/ezgif.com-gif-maker.gif)   
+[Viva](https://github.com/vivavoong/VirtualPet/blob/gh-pages/interactingwithfish.gif)   
+[Chris](https://github.com/TophTheBro/LightSensorController/blob/master/ezgif.com-video-to-gif.gif)   
+[Tiffany](https://github.com/TILOUIE2/VirtualPet/blob/gh-pages/ezgif.com-gif-maker.gif)   
+[Jimmy](https://github.com/Jimmy1433223/VirtualPet/blob/gh-pages/ezgif.com-gif-maker.gif)   
+[Sam](https://github.com/SamRosenblum415/VirtualPet/blob/gh-pages/ezgif.com-gif-maker.gif)   
+[Albert](https://github.com/alshi31/VirtualPet/blob/gh-pages/Albert%20Shi's%20Virtual%20Pet%20Panda%20GIF.gif)   
+[Michelle](https://github.com/mitan4/VirtualPet/blob/gh-pages/birdHop.gif)   
 [Alison](https://github.com/apcsci/VirtualPet/blob/gh-pages/virtualpet_gif.gif)   
 [Nikhita](https://github.com/Nilaw5/VirtualPet/blob/gh-pages/VirtualPet%20Light%20Gif.gif)   
 [Eric](https://github.com/erchan3/VirtualPet/blob/gh-pages/ezgif.com-gif-maker.gif)   
 [Chun Ho](https://github.com/chchen4/VirtualPet/blob/gh-pages/Mad%20Virtual%20Pet.gif)   
+[Jocelyn](https://github.com/jxcelynyu/VirtualPet/blob/gh-pages/IMG_0589.GIF)   
 [Zoey](https://github.com/zoeyzhu/VirtualPet/blob/gh-pages/IMG_8305.GIF)   
 [Tyler](https://github.com/ty237/VirtualPet/blob/gh-pages/ezgif.com-gif-maker.gif)   
 [Tiffany](https://github.com/tiffanyt11/VirtualPet/blob/gh-pages/ezgif-7-49449e974dc8.gif)   
