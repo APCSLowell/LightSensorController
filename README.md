@@ -67,8 +67,8 @@ weeeeeeee
 [Bruno](https://github.com/bruno-415/VirtualPet/blob/gh-pages/petoctopus_gif.gif)   
 [Damian](https://github.com/dabogdon/LightSensorController/blob/master/ezgif-7-c98aa93edc26.gif)    
 [Alvin](https://github.com/alchan6/VirtualPet/blob/gh-pages/Virtual%20Pet%20Gif.gif)    
-[Wing](https://github.com/wilai3/VirtualPet/blob/gh-pages/ezgif.com-gif-maker%20(1).gif)
-[Aiden](https://github.com/AidenShiu/VirtualPet/blob/gh-pages/ezgif-7-ab505aa2b4a4.gif)
+[Wing](https://github.com/wilai3/VirtualPet/blob/gh-pages/ezgif.com-gif-maker%20(1).gif)  
+[Aiden](https://github.com/AidenShiu/VirtualPet/blob/gh-pages/ezgif-7-ab505aa2b4a4.gif) 
 
 [Andrew](https://github.com/antan2/VirtualPet/blob/gh-pages/light%20sensor%20gif.gif)
 
