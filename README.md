@@ -63,4 +63,20 @@ Samples of Student Work
 [Max](https://github.com/max-2023/VirtualPet/blob/gh-pages/Maxwell%20Xu%20-%20Interactive%20Virtual%20Pet.gif)   
 
 
-
+weeeeeeee
+[Bruno](https://github.com/bruno-415/VirtualPet/blob/gh-pages/petoctopus_gif.gif)
+[Damian](https://github.com/dabogdon/LightSensorController/blob/master/ezgif-7-c98aa93edc26.gif)
+[Alvin](https://github.com/alchan6/VirtualPet/blob/gh-pages/Virtual%20Pet%20Gif.gif)
+[Wing](https://github.com/wilai3/VirtualPet/blob/gh-pages/ezgif.com-gif-maker%20(1).gif)
+[Aiden](https://github.com/AidenShiu/VirtualPet/blob/gh-pages/ezgif-7-ab505aa2b4a4.gif)
+[Andrew](https://github.com/antan2/VirtualPet/blob/gh-pages/light%20sensor%20gif.gif)
+[William](https://github.com/wicao1/VirtualPet/blob/gh-pages/virtual_pet_gif.gif)
+[Chris](https://github.com/ChGee/VirtualPet/blob/gh-pages/D1A03D0F-BAB3-42A9-9C4A-906D4511673D.gif)
+[Kumiko](https://github.com/kukomori/VirtualPet/blob/b213ec85dfabac02a42f1126524f14b71b459cdd/doggy.gif)
+[Karina](https://github.com/kaanders17/VirtualPet/blob/gh-pages/Virtual%20Pet%20GIF.gif)
+[Paolo](https://github.com/paolo415/VirtualPet/blob/gh-pages/lightSensorShark.gif)
+[Breanna](https://github.com/paolo415/VirtualPet/blob/gh-pages/lightSensorShark.gif)
+[Edward](https://github.com/edpilotte/VirtualPet/blob/gh-pages/ezgif.com-gif-maker.gif)
+[Jeffrey](https://github.com/edpilotte/VirtualPet/blob/gh-pages/ezgif.com-gif-maker.gif)
+[Austin](https://github.com/auwong1/VirtualPet/blob/908332eadb26acada225312c10647b8ef24e5854/bear.gif)
+[Jason](https://github.com/jawong32/Virtual-Pet-Animation)
