@@ -77,6 +77,14 @@ weeeeeeee
 [Paolo](https://github.com/paolo415/VirtualPet/blob/gh-pages/lightSensorShark.gif)  
 [Breanna](https://github.com/paolo415/VirtualPet/blob/gh-pages/lightSensorShark.gif)  
 [Edward](https://github.com/edpilotte/VirtualPet/blob/gh-pages/ezgif.com-gif-maker.gif)   
-[Jeffrey](https://github.com/edpilotte/VirtualPet/blob/gh-pages/ezgif.com-gif-maker.gif)    
+[Jeffrey](https://github.com/jethiDaCoder/VirtualPet/blob/gh-pages/Virtual%20Pet%20Pufferfish.gif)    
 [Austin](https://github.com/auwong1/VirtualPet/blob/908332eadb26acada225312c10647b8ef24e5854/bear.gif)  
 [Jason](https://github.com/jawong32/Virtual-Pet-Animation)  
+[Haden](https://github.com/hachan-beep/VirtualPet/blob/gh-pages/ezgif.com-gif-maker%20(1).gif)    
+[Irisa](https://github.com/irisac415/VirtualPet/blob/gh-pages/Light%20Sensor%20Snowman%20Gif.gif)   
+[Matthew](https://github.com/malee8/VirtualPet/blob/gh-pages/Light%20Sensor%20(Aug%2031%2C%202021%20at%208_08%20AM).gif)    
+[Luke](https://github.com/LukeD808/VirtualPet/blob/gh-pages/LukeDonohueVirtualPetGif.gif)   
+[Hayden](https://github.com/hakwok/VirtualPet/blob/gh-pages/gif.gif)    
+
+
+
