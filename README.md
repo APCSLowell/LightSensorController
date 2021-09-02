@@ -85,6 +85,18 @@ weeeeeeee
 [Matthew](https://github.com/malee8/VirtualPet/blob/gh-pages/Light%20Sensor%20(Aug%2031%2C%202021%20at%208_08%20AM).gif)    
 [Luke](https://github.com/LukeD808/VirtualPet/blob/gh-pages/LukeDonohueVirtualPetGif.gif)   
 [Hayden](https://github.com/hakwok/VirtualPet/blob/gh-pages/gif.gif)    
+[Noella](https://github.com/noellalee1/VirtualPet/blob/gh-pages/63DEBE89-4BAA-44AE-8227-19408460A609.gif)   
+[Eric](https://github.com/ErLiao137/VirtualPet/blob/gh-pages/owl_gif2.gif) 
+[Joyce](https://github.com/joliu8/VirtualPet/blob/gh-pages/ezgif.com-gif-maker.gif)   
+[Vivian](https://github.com/VivianMak/VirtualPet/blob/gh-pages/ezgif.com-gif-maker.gif)   
+[Lexian](https://github.com/lexiannguyen/VirtualPet/blob/gh-pages/ezgif.com-gif-maker.gif)    
+[Nathan](https://github.com/NathanTjong/VirtualPet/blob/gh-pages/D29BD7F0-F638-4114-BDD5-F430A6F304E6.gif)    
+[Rafa](https://github.com/IamRafaelllll/VirtualPet/blob/gh-pages/ezgif.com-gif-maker.gif)   
+[Nicolas] (https://github.com/nireiss/VirtualPet/blob/2dbc2fafb4534644acdb4300800e627c9ff09694/nicolasReissVirtualPetArduino.gif)   
+
+
+
+
 
 
 
