@@ -61,9 +61,6 @@ Samples of Student Work
 [Tiffany](https://github.com/tiffanyt11/VirtualPet/blob/gh-pages/ezgif-7-49449e974dc8.gif)   
 [Alex](https://github.com/AlexHackathon/VirtualPet/blob/gh-pages/ezgif.com-gif-maker.gif)   
 [Max](https://github.com/max-2023/VirtualPet/blob/gh-pages/Maxwell%20Xu%20-%20Interactive%20Virtual%20Pet.gif)   
-
-
-weeeeeeee
 [Bruno](https://github.com/bruno-415/VirtualPet/blob/gh-pages/petoctopus_gif.gif)   
 [Damian](https://github.com/dabogdon/LightSensorController/blob/master/ezgif-7-c98aa93edc26.gif)    
 [Alvin](https://github.com/alchan6/VirtualPet/blob/gh-pages/Virtual%20Pet%20Gif.gif)    
