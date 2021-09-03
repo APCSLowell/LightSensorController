@@ -88,8 +88,8 @@ Samples of Student Work
 [Vivian](https://github.com/VivianMak/VirtualPet/blob/gh-pages/ezgif.com-gif-maker.gif)   
 [Lexian](https://github.com/lexiannguyen/VirtualPet/blob/gh-pages/ezgif.com-gif-maker.gif)    
 [Nathan](https://github.com/NathanTjong/VirtualPet/blob/gh-pages/D29BD7F0-F638-4114-BDD5-F430A6F304E6.gif)    
-[Rafa](https://github.com/IamRafaelllll/VirtualPet/blob/gh-pages/ezgif.com-gif-maker.gif)   
-[Nicolas] (https://github.com/nireiss/VirtualPet/blob/2dbc2fafb4534644acdb4300800e627c9ff09694/nicolasReissVirtualPetArduino.gif)   
+[Rafa](https://github.com/IamRafaelllll/VirtualPet/blob/gh-pages/ezgif.com-gif-maker.gif)  
+[Nicolas](https://github.com/nireiss/VirtualPet/blob/2dbc2fafb4534644acdb4300800e627c9ff09694/nicolasReissVirtualPetArduino.gif)
 
 
 
