@@ -32,7 +32,7 @@ Using the sample program as a guide, write your own program that uses the light 
 ### Step 4: Make a short video (under 10 seconds and smaller than 25MB)
 When you are happy with your program, have a friend make a short video of you interacting with your virtual pet. The video need only show your hand, the arduino and your pet, please don't include anyone's face in the video. See the samples of student work below.   
 
-Convert the video to an animated gif using a free converter like [ezgif.com](https://ezgif.com/). Use ezgif's *cut video* or a similar option to edit your video to under 10 seconds and less than 25MB. Upload your animated gif to your VirtualPet repository. Submit the link to your gif to Google Classroom. 
+Convert the video to an animated gif using a free converter like [ezgif.com](https://ezgif.com/). Use ezgif's *cut video* or a similar option to edit your video to under 10 seconds and less than 25MB. Upload your animated gif to your VirtualPet repository. Submit the link to your gif in Google Classroom. 
 
 <!-- ### Have something cool that can be shown at back to school night?
 Back to school night is Thursday September 19. Let me know if I can use your program at back to school night.   -->
