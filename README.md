@@ -45,6 +45,7 @@ Samples of Student Work
 [Cameron](https://github.com/CaNguyen1/VirtualPet/blob/gh-pages/IMG_6046.GIF)   
 [Pansy](https://github.com/pakuang/VirtualPet/blob/gh-pages/ezgif.com-gif-maker.gif)   
 [Nash](https://github.com/MoonNash/VirtualPet/blob/gh-pages/IMG_2826%20(1).GIF)   
+[Koey](https://github.com/koeychan/VirtualPet/blob/gh-pages/ezgif.com-gif-maker.gif)   
 [Leah](https://github.com/Lloyd2202/VirtualPet/blob/gh-pages/ezgif.com-gif-maker.gif)   
 [Mikey](https://github.com/miosullivan/LightSensorController/blob/master/ezgif.com-gif-maker.gif)   
 [Jonah](https://github.com/JonahWaldman/VirtualPet/blob/gh-pages/ezgif.com-gif-maker.gif)   
