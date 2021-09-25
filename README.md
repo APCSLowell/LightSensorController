@@ -99,7 +99,7 @@ Samples of Student Work
 [Lexian](https://github.com/lexiannguyen/VirtualPet/blob/gh-pages/ezgif.com-gif-maker.gif)    
 [Nathan](https://github.com/NathanTjong/VirtualPet/blob/gh-pages/D29BD7F0-F638-4114-BDD5-F430A6F304E6.gif)    
 [Rafa](https://github.com/IamRafaelllll/VirtualPet/blob/gh-pages/ezgif.com-gif-maker.gif)  
-[Nicolas](https://github.com/nireiss/VirtualPet/blob/2dbc2fafb4534644acdb4300800e627c9ff09694/nicolasReissVirtualPetArduino.gif)
+[Nicolas](https://github.com/nireiss/VirtualPet/blob/2dbc2fafb4534644acdb4300800e627c9ff09694/nicolasReissVirtualPetArduino.gif)   
 [Christina](https://github.com/christina88chan/VirtualPet/blob/5a5e5561933f2b6075028a15997f6c5555fae52a/bear.GIF)   
 [Joanne](https://github.com/joannechenn/LightSensorController/blob/master/ezgif.com-gif-maker.gif)   
 [Caitlyn](https://github.com/calam1818/VirtualPet/blob/gh-pages/ezgif-7-2a34deac5c28.gif)   
