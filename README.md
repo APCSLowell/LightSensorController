@@ -244,3 +244,5 @@ Samples of Student Work
 [Audrey](https://github.com/audreyyann/VirtualPet/blob/f967650c65c389bab6ad0856f6ec35971801e902/ezgif.com-gif-maker.gif)    
 [Emily](https://github.com/emyang1/VirtualPet/blob/gh-pages/lightsensor.gif)    
 [Haoheng](https://github.com/HaoxD123/VirtualPet/blob/gh-pages/ezgif.com-gif-maker.gif)   
+[Gabriel](https://github.com/GabrielZub/VirtualPet/blob/gh-pages/ezgif.com-gif-maker%20(1).gif)   
+
