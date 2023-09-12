@@ -275,3 +275,12 @@ Samples of Student Work
 [Matthew](https://github.com/matttwongg/VirtualPet/blob/c77448c2e9c6968b25d54a4ff9ca15707efa45b7/ezgif.com-gif-maker%202.gif)   
 [Wanyan](https://github.com/cheesicake/LightSensorController/blob/master/ezgif.com-gif-maker.gif)   
 [Kaitlyn](https://github.com/KaitlynZhou/LightSensorController/blob/master/ezgif-4-6964658e40.gif)    
+[Lilah](https://github.com/lilahanders817/VirtualPet/blob/gh-pages/ezgif.com-video-to-gif.gif)
+[Finely](https://github.com/finleycaul/VirtualPet/blob/gh-pages/ezgif-3-20506c8f60.gif)
+[Jason](https://github.com/jachen28/VirtualPet/blob/0f51b6e4c8d7ed07f9664cc9e86786858c4113e6/ezgif.com-video-to-gif.gif)
+[Ethan](https://github.com/ethan-chu-shlawg/VirtualPet/blob/gh-pages/ezgif.com-video-to-gif.gif)
+[Sebastian](https://github.com/SebastianAPCS/VirtualPet/blob/gh-pages/APCSA%20Virtual%20Pet%20%5BLight%20Sensor%5D.gif)
+[Myles](https://github.com/mygardiner/VirtualPetMyles/blob/578007f49784806308253e696f12fe65735f6e0a/ezgif.com-video-to-gif.gif)
+[Oliver](https://github.com/OLGUO/VirtualPet/blob/gh-pages/3C8C06EB-06B7-4F9F-A6B2-1C2725C3FD09.jpeg)
+
+
